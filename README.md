@@ -13,9 +13,10 @@ This is **Kiran Patnayakuni**, working as a Cloud Ops Specialist @ Accenture.
   And my recent blog posts are...
   |Date|Post|
   |---|---|
+  |14 July 2020|<a href="https://kpatnayakuni.com/2020/07/14/find-azure-resources-by-tags/" target="_blank">Find Azure Resources By Tags Using PowerShell</a>|
   |05 July 2020|<a href="https://kpatnayakuni.com/2020/07/05/just-a-tip-self-aliased-functions-in-powershell/" target="_blank">Self Aliased Functions in PowerShell</a>|
   |01 July 2020|<a href="https://kpatnayakuni.com/2020/07/01/powershell-magic-of-myinvocation/" target="_blank">Magic of $MyInvocation in PowerShell</a>|
-  |01 July 2020|<a href="https://kpatnayakuni.com/2020/06/23/publish-a-static-website-to-azure-static-webapps/" target="_blank">Publish a static website on Azure Static WebApps (Preview)</a>|
+ 
   
   
 - 💬 Ask me about PowerShell and Automation.
