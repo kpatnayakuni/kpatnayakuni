@@ -1,4 +1,4 @@
-<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=katnayakuni.visitor-badge"></p>
+<!--p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=katnayakuni.visitor-badge"></p-->
 
 ### Hi there 👋
  
