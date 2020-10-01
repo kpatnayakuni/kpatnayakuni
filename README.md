@@ -19,9 +19,9 @@ This is **Kiran Patnayakuni**, working as a Cloud Ops Specialist @ Accenture.
   
 - ⚡ I'm currently working the projects below...
 
-  - <a href="https://github.com/kpatnayakuni/azure-quickstart-psscripts" target="_blank">Conversion of Azure Quickstart Templates to Azure PowerShell Scripts</a>
+  - <a href="https://github.com/kpatnayakuni/azure-quickstart-psscripts" target="_blank">Azure Quickstart Sample PowerShell Scripts</a>
 
-  - <a href="https://github.com/kpatnayakuni/azure-quickstart-terraform-configuration" target="_blank">Conversion of Azure Quickstart Templates to Terraform Configuration</a>
+  - <a href="https://github.com/kpatnayakuni/azure-quickstart-terraform-configuration" target="_blank">Azure Quickstart Sample Terraform Configuration</a>
   
 - 💬 Ask me about PowerShell and Automation.
 - 📫 How to reach me: 
